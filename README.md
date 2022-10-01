@@ -39,3 +39,13 @@ General use of IOT:
 7. Smart grid and energy saving.
 8. Water supply.
 9. Maintenance management.
+
+
+![SCREENSHOT 1](https://user-images.githubusercontent.com/114655078/193400986-cd7e8b92-77ac-4001-8c21-b8e2955ea2ba.png)
+
+
+![SCREENSHOT 2](https://user-images.githubusercontent.com/114655078/193400991-1e4cfd8d-84f3-4e5b-b1f1-53588b5ba5f3.png)
+![SCREENSHOT 3](https://user-images.githubusercontent.com/114655078/193400993-f9473752-2b59-47a2-b3e2-354146fd48fa.png)
+![SCREENSHOT 4](https://user-images.githubusercontent.com/114655078/193400997-71ebf1b1-5bae-4145-89ff-53c6eceb6221.png)
+![SCREENSHOT 5](https://user-images.githubusercontent.com/114655078/193401000-67de45d7-8136-4bff-8d66-3e24a237c93e.png)
+![SCREENSHOT 5](https://user-images.githubusercontent.com/114655078/193401008-7710bd6a-1a85-473a-84fc-3026229f2ed6.png)
